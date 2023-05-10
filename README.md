@@ -15,7 +15,7 @@
 
 </div>
 
-## 📊 Sorting.Visulizer 🕹[Try It Now](https://hamdolavisualizer.netlify.com/?fbclid=IwAR0YJMegmtW4CKDtiUM256qrCGwxbQqUDq0OJK6qjAqGiYdaS-oPdq3pFX8)
+## 📊 Sorting.Visulizer 🕹[Try It Now](https://main--tangerine-valkyrie-b5e9ac.netlify.app/)
 --------------------
 
 **_Sorting.Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
