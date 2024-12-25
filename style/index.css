@@ -17,7 +17,8 @@
 }
 
 .containerclass{
-	background-color: rgb(0, 133, 40);
+	/* background-color: rgb(143, 249, 175); */
+	background: linear-gradient(blue,white);
 	margin-bottom: 100px;
 }
 
@@ -89,17 +90,20 @@ input[type="button"] {
 	margin: 1.5vw 0.5vw;
 }
 input[type="button"]:hover, button:hover{
-	background-color: black;;
+	background-color: rgb(54, 52, 52);;
 	cursor: pointer;
 	color: #ffffff;
 }
 input[type="button"]:disabled, input[type="range"]:disabled{
-	background-color:  rgb(0, 133, 40);
+	/* background-color:  rgb(0, 133, 40); */
+	background: linear-gradient(blue,white);
+	
 	cursor: not-allowed;
 	color: black;
 }
 input[type="button"], button{
-	background: rgb(0, 133, 40);
+	/* background: rgb(0, 133, 40); */
+	background: linear-gradient(blue,white);
 	border: none;
 	padding: 1.3vh;
 	border-radius: 9vw;
